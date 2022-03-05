@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g/lGl0LuhdycVUdLzH3L1BQQbvTW1mmwbSU4bM2Sah6eklgDLr6v7xU+CW5ilZxSRqshCjNPC7KvP25o0cZdlQ==",
+  "success": true,
+  "projectFilePath": "/Users/nirvikbasnet/Downloads/microsoft-azure-developer-implement-iaas-solutions/02/demos/demos/webapp/webapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/nirvikbasnet/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/nirvikbasnet/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/nirvikbasnet/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

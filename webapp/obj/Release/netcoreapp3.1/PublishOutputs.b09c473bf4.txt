@@ -1,0 +1,7 @@
+/Users/nirvikbasnet/Downloads/microsoft-azure-developer-implement-iaas-solutions/02/demos/demos/webapp/bin/Release/netcoreapp3.1/publish/webapp
+/Users/nirvikbasnet/Downloads/microsoft-azure-developer-implement-iaas-solutions/02/demos/demos/webapp/bin/Release/netcoreapp3.1/publish/appsettings.Development.json
+/Users/nirvikbasnet/Downloads/microsoft-azure-developer-implement-iaas-solutions/02/demos/demos/webapp/bin/Release/netcoreapp3.1/publish/appsettings.json
+/Users/nirvikbasnet/Downloads/microsoft-azure-developer-implement-iaas-solutions/02/demos/demos/webapp/bin/Release/netcoreapp3.1/publish/webapp.dll
+/Users/nirvikbasnet/Downloads/microsoft-azure-developer-implement-iaas-solutions/02/demos/demos/webapp/bin/Release/netcoreapp3.1/publish/webapp.deps.json
+/Users/nirvikbasnet/Downloads/microsoft-azure-developer-implement-iaas-solutions/02/demos/demos/webapp/bin/Release/netcoreapp3.1/publish/webapp.runtimeconfig.json
+/Users/nirvikbasnet/Downloads/microsoft-azure-developer-implement-iaas-solutions/02/demos/demos/webapp/bin/Release/netcoreapp3.1/publish/webapp.pdb
